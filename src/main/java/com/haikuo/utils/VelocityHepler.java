@@ -1,4 +1,4 @@
-package com.haikuo.utiltools;
+package com.haikuo.utils;
 
 import java.io.StringWriter;
 import java.util.Map;

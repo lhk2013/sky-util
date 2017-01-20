@@ -1,4 +1,4 @@
-package com.haikuo.utiltools;
+package com.haikuo.utils;
 
 public class PageTool {	
 	

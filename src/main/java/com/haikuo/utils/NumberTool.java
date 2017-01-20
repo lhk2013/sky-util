@@ -1,4 +1,4 @@
-package com.haikuo.utiltools;
+package com.haikuo.utils;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;

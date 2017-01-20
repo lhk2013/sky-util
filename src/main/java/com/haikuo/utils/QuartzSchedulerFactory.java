@@ -1,4 +1,4 @@
-package com.haikuo.utiltools;
+package com.haikuo.utils;
 
 import org.quartz.Scheduler;
 import org.quartz.SchedulerException;

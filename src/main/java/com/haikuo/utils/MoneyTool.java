@@ -1,4 +1,4 @@
-package com.haikuo.utiltools;
+package com.haikuo.utils;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;

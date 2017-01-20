@@ -1,9 +1,7 @@
-package com.haikuo.utiltools;
+package com.haikuo.utils;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
-import java.sql.SQLClientInfoException;
-import java.util.Collection;
 import java.util.List;
 
 import org.apache.commons.logging.Log;

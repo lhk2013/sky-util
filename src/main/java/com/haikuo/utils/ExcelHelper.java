@@ -1,9 +1,8 @@
-package com.haikuo.utiltools;
+package com.haikuo.utils;
 
 import java.io.ByteArrayOutputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;

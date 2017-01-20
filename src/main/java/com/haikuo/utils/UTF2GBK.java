@@ -1,4 +1,4 @@
-package com.haikuo.utiltools;
+package com.haikuo.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.lang.Character.UnicodeBlock;

@@ -1,4 +1,4 @@
-package com.haikuo.utiltools;
+package com.haikuo.utils;
 
 import java.util.Collections;
 import java.util.Comparator;
